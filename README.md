@@ -8,7 +8,7 @@ Via lazy.nvim
 
 ```
 {
-    'hellopoisonx/themes.nvim',
+    'hellopoisonx/theme.nvim',
     opts = {} 
 }
 
